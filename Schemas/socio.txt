@@ -1,0 +1,11 @@
+codigoSocio:String
+nombresSocio:String
+apellidosSocio:String
+fechaNacimientoSocio:Date
+direccionSocio:String
+telefonoSocio:String
+creditoSocio:Number
+urlImagenPerfilSocio:String
+urlImagenHuellaDactilarSocio:String
+urlImagenFirmaSocio:String
+estadoSocio:String
