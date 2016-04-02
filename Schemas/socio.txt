@@ -1,3 +1,4 @@
+/*Agregados*/
 codigoSocio:String
 nombresSocio:String
 apellidosSocio:String
@@ -9,3 +10,6 @@ urlImagenPerfilSocio:String
 urlImagenHuellaDactilarSocio:String
 urlImagenFirmaSocio:String
 estadoSocio:String
+/*Faltan agregar*/
+emailSocio:String
+passwordSocio:String
